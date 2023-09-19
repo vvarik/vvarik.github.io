@@ -30,18 +30,18 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     # pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Estonian
-          level: Native
-
-        - idiom: English
-          level: Professional
-
-        - idiom: Russian
-          level: Elementary
-
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: Estonian
+    #       level: Native
+    #
+    #     - idiom: English
+    #       level: Professional
+    #
+    #     - idiom: Russian
+    #       level: Elementary
+    #
     # interests:
     #   title: Interests
     #   info:
