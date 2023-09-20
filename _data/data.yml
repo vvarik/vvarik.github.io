@@ -177,6 +177,44 @@ experiences:
           master-level lectures, and researched population
           heterogeneity. Developed an analytical chemistry method.
 
+certifications:
+      title: Certificates
+      list:
+        - name: Data Analyst with R
+          start: 77h
+          # end: 2021
+          organization: DataCamp
+            #credentialid: 246367
+          credentialurl: datacamp.com/statement-of-accomplishment/track/40262120608634099f4378f6152142892cbb8f3a
+          credentialname: To the certificate
+          details: |
+            Import, clean, visualize and report data in R. R packages ggplot2,
+            tidyverse, data.table. Data manipulation and exploratory data
+            analysis. SQL skills to query data from databases and join tables. 
+
+        - name: Data Scientist with R
+          start: 55h
+          # end: 2021
+          organization: DataCamp
+            #credentialid: 246367
+          credentialurl: datacamp.com/statement-of-accomplishment/track/66cc65c8d65d977f4aabe3454558ea1ae16c491d
+          credentialname: To the certificate
+          details: |
+            Generalized linear models, clustering (k-means, hierarchical),
+            dimensionality reduction.
+
+        - name: Statistician with R
+          start: 52h
+          # end: 2021
+          organization: DataCamp
+            #credentialid: 246367
+          credentialurl: datacamp.com/statement-of-accomplishment/track/1b3784f3b683956515579856184785bf3a53aea2
+          credentialname: To the certificate
+          details: |
+            Sampling, probability, hypothesis testing, experimental design,
+            hierarchical and mixed effect models, survival analysis,
+            fundamentals of Bayesian and factor analysis.
+
 #         - name: Git learning
 #           start: 2019
 #           end:
