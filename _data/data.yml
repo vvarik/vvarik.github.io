@@ -87,7 +87,7 @@ projects:
       #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills #&amp; Proficiency
 
     toolset:
       - name: R
