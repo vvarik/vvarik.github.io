@@ -112,8 +112,8 @@ education:
     title: Education
     info:
       - degree: PhD Biomedical Engineering
-        university: University of Tartu
-        time: 2017
+        university: 2017 University of Tartu
+        # time: 2017
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -123,8 +123,8 @@ education:
             - Bullet point
             - Bullet point
       - degree: MSc Molecular & Cell Biology
-        university: University of Tartu
-        time: 2007
+        university: 2007 University of Tartu
+        # time: 2007
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -134,8 +134,8 @@ education:
             - Bullet point
             - Bullet point
       - degree: BSc Genetic Engineering cum laude
-        university: University of Tartu
-        time: 2005
+        university: 2005 University of Tartu
+        # time: 2005
         details: cum laude |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
